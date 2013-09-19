@@ -1,5 +1,8 @@
 # Compiled source #
 ###################
+*.swp
 
 # Packages #
 ############
+*.tar.gz
+*.zip
